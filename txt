@@ -1,0 +1,104 @@
+🔹 Basic Coding Problems for Freshers
+
+Sum of first N natural numbers
+👉 Input: n = 5 → Output: 15
+
+Check if a number is even or odd
+👉 Input: n = 7 → Output: Odd
+
+Check if a number is prime
+👉 Input: n = 11 → Output: Prime
+
+Print Fibonacci series up to N terms
+👉 Input: n = 6 → Output: 0 1 1 2 3 5
+
+Find factorial of a number
+👉 Input: n = 5 → Output: 120
+
+Reverse a number
+👉 Input: n = 1234 → Output: 4321
+
+Check if a number is palindrome
+👉 Input: 121 → Output: Yes
+
+Find largest of three numbers
+👉 Input: a=10, b=25, c=15 → Output: 25
+
+Sum of digits of a number
+👉 Input: n=123 → Output: 6
+
+Check Armstrong number (sum of cubes of digits = number)
+👉 Input: 153 → Output: Armstrong
+
+Check leap year
+👉 Input: 2000 → Output: Leap Year
+
+Generate multiplication table
+👉 Input: n = 5 → Output: 5x1=5 … 5x10=50
+
+Count number of digits in a number
+👉 Input: n=9876 → Output: 4
+
+Swap two numbers without using third variable
+👉 Input: a=5, b=7 → Output: a=7, b=5
+
+Print all even numbers between 1 and N
+👉 Input: n=10 → Output: 2 4 6 8 10
+
+Do you want me to also give Python/Java sample solutions for these, so you can practice directly?
+
+You said:
+ask some other problems to 
+ChatGPT said:
+
+Perfect 👍 you’ve already seen the classic beginner ones (sum, Fibonacci, palindrome, etc.).
+Here’s another batch of basic–medium level coding problems often asked for freshers in interviews/online rounds:
+
+🔹 More Beginner-Friendly Problems
+
+Print the factors of a number
+👉 Input: n=12 → Output: 1 2 3 4 6 12
+
+Find GCD (HCF) and LCM of two numbers
+👉 Input: 12, 18 → Output: GCD=6, LCM=36
+
+Check if a number is perfect (sum of its divisors excluding itself = number)
+👉 Input: 28 → Output: Perfect Number
+
+Check if a number is strong (sum of factorial of digits = number)
+👉 Input: 145 → Output: Strong Number
+
+Print prime numbers between 1 and N
+👉 Input: n=20 → Output: 2 3 5 7 11 13 17 19
+
+Print the reverse of a string
+👉 Input: "hello" → Output: "olleh"
+
+Count vowels and consonants in a string
+👉 Input: "hello" → Output: Vowels=2, Consonants=3
+
+Check if a string is palindrome
+👉 Input: "madam" → Output: Yes
+
+Find ASCII value of a character
+👉 Input: 'A' → Output: 65
+
+Swap case in a string (uppercase → lowercase and vice versa)
+👉 Input: "HeLLo" → Output: "hEllO"
+
+🔹 Slightly Trickier (Still Freshers’ Level)
+
+Find the missing number in a sequence
+👉 Input: [1,2,3,5] → Output: 4
+
+Find duplicate elements in an array
+👉 Input: [1,2,3,2,4,1] → Output: 1, 2
+
+Check if two strings are anagrams
+👉 Input: "listen", "silent" → Output: Yes
+
+Count words in a sentence
+👉 Input: "I love coding" → Output: 3
+
+Reverse each word in a sentence
+👉 Input: "I love coding" → Output: "I evol gnidoc"
